@@ -1,0 +1,21 @@
+body {
+    
+    
+    text-align: center;
+    border: 2px strong blue;
+  }
+  .heading1 {
+    color: yellow;
+    border: 2px strong yellow;
+
+  }
+  .heading2 {
+    color: blue;
+    border: 2px strong blue;
+
+  }
+  .heading3 {
+    color: red;
+    border: 2px strong red;
+
+  }
